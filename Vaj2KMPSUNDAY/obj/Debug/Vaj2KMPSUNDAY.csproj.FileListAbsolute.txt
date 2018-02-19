@@ -1,0 +1,6 @@
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\Vaj2KMPSUNDAY\Vaj2KMPSUNDAY\bin\Debug\Vaj2KMPSUNDAY.exe.config
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\Vaj2KMPSUNDAY\Vaj2KMPSUNDAY\bin\Debug\Vaj2KMPSUNDAY.exe
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\Vaj2KMPSUNDAY\Vaj2KMPSUNDAY\bin\Debug\Vaj2KMPSUNDAY.pdb
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\Vaj2KMPSUNDAY\Vaj2KMPSUNDAY\obj\Debug\Vaj2KMPSUNDAY.csprojResolveAssemblyReference.cache
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\Vaj2KMPSUNDAY\Vaj2KMPSUNDAY\obj\Debug\Vaj2KMPSUNDAY.exe
+C:\Users\bostj\Documents\FERI\2.Letnik\2.Semester\ARP\Vaj2KMPSUNDAY\Vaj2KMPSUNDAY\obj\Debug\Vaj2KMPSUNDAY.pdb
